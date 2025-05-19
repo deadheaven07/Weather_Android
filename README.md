@@ -46,7 +46,8 @@ weather_App/
 ---
 
 ## 🚀 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/deadheaven07/Weather_Android.git
+Clone the repo:
+      git clone https://github.com/deadheaven07/Weather_Android.git
+## TO Preview and download APK
+https://drive.google.com/file/d/1jQYG_okG2iQHJzaks-1_poVvMV68I1Pw/view?usp=sharing
+   
